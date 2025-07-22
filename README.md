@@ -1,7 +1,7 @@
 <h1 align="center"> Ignacio Vadillo
 <p align="center">
-<a href="[Your Website URL]">Website</a> •
-<a href="[LinkedIn URL]">LinkedIn</a> •
+<a href="[IgnacioVadillo.github.io]">Website</a> •
+<a href="[https://www.linkedin.com/in/ignaciovadillosahonero/]">LinkedIn</a>
 </p>
 ---
 ## About Me
