@@ -2,7 +2,6 @@
 <p align="center">
 <a href="[Your Website URL]">Website</a> •
 <a href="[LinkedIn URL]">LinkedIn</a> •
-<a href="[Twitter URL]">Twitter</a>
 </p>
 ---
 ## About Me
