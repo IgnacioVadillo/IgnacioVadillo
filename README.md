@@ -35,8 +35,8 @@
 - [💰 UFC Betting Model](https://github.com/your-repo) ![Repo](https://img.shields.io/badge/Code-Repository-blue)  
   > Predictive model for UFC fight outcomes using public odds and fighter stats
 
-- [🧠 Behavioral Segmentation for Audience Insights](https://github.com/your-repo) ![Repo](https://img.shields.io/badge/Code-Repository-blue)  
-  > Clustering + behavioral economics insights to redefine visitor strategies for entertainment venues
+- [🧠 Values in the company](https://github.com/your-repo) ![Repo](https://img.shields.io/badge/Code-Repository-blue)  
+  > Simple graph analysis, but well applied to get value, made to understand the leaders of this company's values
 
 - [📈 Local Revenue Dynamics](https://github.com/your-repo) ![Repo](https://img.shields.io/badge/Code-Repository-blue)  
   > Modeling novelty decay & city-specific patterns using normalized time-series data
