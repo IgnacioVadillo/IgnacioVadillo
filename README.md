@@ -3,7 +3,7 @@
 ## Hi there! 👋 I'm Ignacio Vadillo
 
 🎯 *Growth & Marketing → Analytics → Data Science*  
-🥋 *Sports Fanatic | Behavioral Nerd | Storytelling with Data*
+🥋 *Sports Fanatic | Life-long Learner | Storytelling with Data*
 
 ---
 
@@ -35,8 +35,8 @@
 - [💰 UFC Betting Model](https://github.com/your-repo) ![Repo](https://img.shields.io/badge/Code-Repository-blue)  
   > Predictive model for UFC fight outcomes using public odds and fighter stats
 
-- [🧠 Values in the company](https://github.com/your-repo) ![Repo](https://img.shields.io/badge/Code-Repository-blue)  
-  > Simple graph analysis, but well applied to get value, made to understand the leaders of this company's values
+- [🧠 FBI's Wanted Criminals](https://github.com/your-repo) ![Repo](https://img.shields.io/badge/Code-Repository-blue)  
+  > Some Data Engineering performed to gather data from an open API, cleaning, and performing a quick analysis, all while creating the base of a data lake in the process 
 
 - [📈 Local Revenue Dynamics](https://github.com/your-repo) ![Repo](https://img.shields.io/badge/Code-Repository-blue)  
   > Modeling novelty decay & city-specific patterns using normalized time-series data
