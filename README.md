@@ -49,10 +49,6 @@
 
 - 🔗 [LinkedIn](https://linkedin.com/in/ignaciovadillosahonero)
 
----
-
-> 🧠 "Data without context is just noise. My job is to turn it into music."
-
 <p align="center">
   <i>Last updated: July 2025</i>
 </p>
