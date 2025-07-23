@@ -43,24 +43,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignaciovadillo&show_icons=true&theme=default&hide=contribs,prs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciovadillo&layout=compact&theme=default" />
-</p>
-
----
-
 ## 📬 Contact
 
 > Want to connect or collaborate?
 
 - 🔗 [LinkedIn](https://linkedin.com/in/ignaciovadillosahonero)
-- ✉️ ignacio.vadillo@student.ie.edu
 
 ---
 
